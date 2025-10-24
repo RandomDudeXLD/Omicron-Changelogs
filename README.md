@@ -43,6 +43,3 @@ Versions prior to 3.0 are undocumented.
 
 
 # Version 4.0: Released on ?? ??, 202?
-
-
-# Version 4.0: Released on ?? ??, 202?
