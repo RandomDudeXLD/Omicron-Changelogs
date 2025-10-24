@@ -22,7 +22,7 @@ Versions prior to 3.0 are undocumented.
 
 **Version 3.3: Released on October 24th, 2025**
 - Revamped the mute command and fixed the "missing permissions" error.
-- Removed the changelogs command.
+- Removed the changelogs command (updated the status command to show a redirect to this page).
 
 **Version 3.4: Released on ?? ??, 202?**
 
