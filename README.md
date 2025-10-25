@@ -20,9 +20,13 @@ Versions prior to 3.0 are undocumented.
 - ACTUALLY fixed the dogs command.
 - Updated status cycling (removed the loop_number function).
 
-**Version 3.3: Released on October 24th, 2025**
+**Version 3.3: Released on October 26th, 2025**
 - Revamped the mute command and fixed the "missing permissions" error.
 - Removed the changelogs command (updated the status command to show a redirect to this page).
+- Reworked the way per-server prefixes are handled, as well as the command for changing prefixes.
+- Updated the internal code structure to be more organized.
+- Revamped the mute command and the way it applies timeouts.
+- Reworked autorole functions.
 
 **Version 3.4: Released on ?? ??, 202?**
 
