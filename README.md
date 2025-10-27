@@ -27,6 +27,8 @@ Versions prior to 3.0 are undocumented.
 - Updated the internal code structure to be more organized.
 - Revamped the mute command and the way it applies timeouts.
 - Reworked autorole functions.
+- Reworked the purge command and added the ability for message logging.
+- Updated the Privacy Policy and ToS of Omicron.
 
 **Version 3.4: Released on ?? ??, 202?**
 
