@@ -34,6 +34,9 @@ Versions prior to 3.0 are undocumented.
 - Added the Avatar command.
 - Did other things and maybe hotfixes but I forgot?
 - Added welcomer functions (For member joins and leaves).
+- Updated some commands (minor text edits).
+- Added the "Slash Command handler" for Slash Command availability; also added the Avatar command in Slash format.
+- Added the "Slash Command Exclusive" Minesweeper and Wordle commands.
 
 **Version 3.5: Released on November ??, 2025**
 
