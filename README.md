@@ -37,6 +37,7 @@ Versions prior to 3.0 are undocumented.
 - Updated some commands (minor text edits).
 - Added the "Slash Command handler" for Slash Command availability; also added the Avatar command in Slash format.
 - Added the "Slash Command Exclusive" Minesweeper command.
+
 **Version 3.5: Released on November ??, 2025**
 
 
