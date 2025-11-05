@@ -30,10 +30,12 @@ Versions prior to 3.0 are undocumented.
 - Reworked the purge command and added the ability for message logging.
 - Updated the Privacy Policy and ToS of Omicron.
 
-**Version 3.4: Released on ?? ??, 202?**
+**Version 3.4: Released on November ??, 2025**
+- Added the Avatar command.
+- Did other things and maybe hotfixes but I forgot?
+- Added welcomer functions (For member joins and leaves).
 
-
-**Version 3.5: Released on ?? ??, 202?**
+**Version 3.5: Released on November ??, 2025**
 
 
 **Version 3.6: Released on ?? ??, 202?**
