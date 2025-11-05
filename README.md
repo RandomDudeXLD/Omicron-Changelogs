@@ -30,7 +30,7 @@ Versions prior to 3.0 are undocumented.
 - Reworked the purge command and added the ability for message logging.
 - Updated the Privacy Policy and ToS of Omicron.
 
-**Version 3.4: Released on November ??, 2025**
+**Version 3.4: Released on November 6th, 2025**
 - Added the Avatar command.
 - Did other things and maybe hotfixes but I forgot?
 - Added welcomer functions (For member joins and leaves).
@@ -38,6 +38,7 @@ Versions prior to 3.0 are undocumented.
 - Added the "Slash Command handler" for Slash Command availability; also added the Avatar command in Slash format.
 - Added the "Slash Command Exclusive" Minesweeper command.
 - Separated the Kick, Ban and Unban commands into 3 different files for better organization.
+- Added on_join and on_leave functions for the Welcomer command. Added the... Welcomer command.
 
 **Version 3.5: Released on November ??, 2025**
 
