@@ -33,12 +33,12 @@ Versions prior to 3.0 are undocumented.
 **Version 3.4: Released on November ???, 2025**
 - Added the Avatar command.
 - Did other things and maybe hotfixes but I forgot?
-- Added welcomer functions (For member joins and leaves).
+- Added welcomer functions (For member joins and leaves), though it isn't available for public use.
 - Updated some commands (minor text edits).
 - Added the "Slash Command handler" for Slash Command availability; also added the Avatar command in Slash format.
 - Separated the Kick, Ban and Unban commands into 3 different files for better organization.
-- Added a Member Entry Handler. Not available for public use.
 - Added the BRUTALLYASSASINATE alias for the Kill command.
+- Updated the internal code structure again.
 
 **Version 3.5: Released on November ??, 2025**
 - Added the "Slash Command Exclusive" Minesweeper command.
