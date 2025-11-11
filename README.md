@@ -30,7 +30,7 @@ Versions prior to 3.0 are undocumented.
 - Reworked the purge command and added the ability for message logging.
 - Updated the Privacy Policy and ToS of Omicron.
 
-**Version 3.4: Released on November ???, 2025**
+**Version 3.4: Released on November 11th, 2025**
 - Added the Avatar command.
 - Did other things and maybe hotfixes but I forgot?
 - Added welcomer functions (For member joins and leaves), though it isn't available for public use.
@@ -40,6 +40,7 @@ Versions prior to 3.0 are undocumented.
 - Added the BRUTALLYASSASINATE alias for the Kill command.
 - Updated the internal code structure again.
 - Updated the Definition command to fetch a maximum of 3 definitions (when applicable), unlike before, where it fetched only one definition.
+- Updated Cron Scheduler for daily restarts, instead of bi-daily ones.
 
 **Version 3.5: Released on November ??, 2025**
 - Added the "Slash Command Exclusive" Minesweeper command.
