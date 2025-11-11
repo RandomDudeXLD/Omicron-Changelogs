@@ -39,6 +39,7 @@ Versions prior to 3.0 are undocumented.
 - Separated the Kick, Ban and Unban commands into 3 different files for better organization.
 - Added the BRUTALLYASSASINATE alias for the Kill command.
 - Updated the internal code structure again.
+- Updated the Definition command to fetch a maximum of 3 definitions (when applicable), unlike before, where it fetched only one definition.
 
 **Version 3.5: Released on November ??, 2025**
 - Added the "Slash Command Exclusive" Minesweeper command.
