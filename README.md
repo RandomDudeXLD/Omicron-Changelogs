@@ -43,6 +43,7 @@ Versions prior to 3.0 are undocumented.
 - Updated Cron Scheduler for daily restarts, instead of bi-daily ones.
 
 **Version 3.5: Released on November ??, 2025**
+- Added full Slash Command Compatibility for all current commands.
 - Added the "Slash Command Exclusive" Minesweeper command.
 
 **Version 3.6: Released on ?? ??, 202?**
