@@ -42,8 +42,13 @@ Versions prior to 3.0 are undocumented.
 - Updated the Definition command to fetch a maximum of 3 definitions (when applicable), unlike before, where it fetched only one definition.
 - Updated Cron Scheduler for daily restarts, instead of bi-daily ones.
 
+**Version 3.4.5: Released on November 12th, 2025**
+- Critical Update for 24/7 availability host. Changes made!
+- 2 slash commands that were worked on recently were added (Ball and Status).
+- Updated internal code structure to be more organized (as always).
+
 **Version 3.5: Released on November ??, 2025**
-- Added full Slash Command Compatibility for all current commands.
+- Added full Slash Command Compatibility for all current prefixed commands.
 - Added the "Slash Command Exclusive" Minesweeper command.
 
 **Version 3.6: Released on ?? ??, 202?**
