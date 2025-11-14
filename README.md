@@ -47,6 +47,11 @@ Versions prior to 3.0 are undocumented.
 - 2 slash commands that were worked on recently were added (Ball and Status).
 - Updated internal code structure to be more organized (as always).
 
+**Version 3.4.6: Released on November 14th, 2025**
+- Changes made for User Install functionality.
+- Updated the flavor text on some commands.
+- Added some more slash commands!
+
 **Version 3.5: Released on November ??, 2025**
 - Added full Slash Command Compatibility for all current prefixed commands.
 - Added the "Slash Command Exclusive" Minesweeper command.
