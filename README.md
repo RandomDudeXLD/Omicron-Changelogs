@@ -56,6 +56,7 @@ Versions prior to 3.0 are undocumented.
 - Added full Slash Command Compatibility for all current prefixed commands.
 - ACTUALLY added legitimate functionality for User Installation Contexts.
 - Added the "Slash Command Exclusive" Minesweeper command.
+- Updated Omicron's Terms of Service and Privacy Policy for needed corrections and updates.
 
 **Version 3.6: Released on ?? ??, 202?**
 
