@@ -54,6 +54,7 @@ Versions prior to 3.0 are undocumented.
 
 **Version 3.5: Released on November ??, 2025**
 - Added full Slash Command Compatibility for all current prefixed commands.
+- ACTUALLY added legitimate functionality for User Installation Contexts.
 - Added the "Slash Command Exclusive" Minesweeper command.
 
 **Version 3.6: Released on ?? ??, 202?**
