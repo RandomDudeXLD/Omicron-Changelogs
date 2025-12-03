@@ -52,11 +52,19 @@ Versions prior to 3.0 are undocumented.
 - Updated the flavor text on some commands.
 - Added some more slash commands!
 
-**Version 3.5: Released on November ??, 2025**
+**Version 3.5: Released on December ??, 2025**
 - Added full Slash Command Compatibility for all current prefixed commands.
 - ACTUALLY added legitimate functionality for User Installation Contexts.
 - Added the "Slash Command Exclusive" Minesweeper command.
 - Updated Omicron's Terms of Service and Privacy Policy for needed corrections and updates.
+- Added checks to certain commands that don't work properly in user contexts, and updated commands that needed it for user installation availability.
+- Optimized the code for each command.
+- Improved error handling for most commands.
+- Made commands names and their descriptions less ambiguous.
+- Updated the help command (finally) and added common aliases for commands.
+- Improved the code's internal structure as always (but this time like, better).
+- And other things I likely forgot to document here.
+
 
 **Version 3.6: Released on ?? ??, 202?**
 
