@@ -62,6 +62,7 @@ Versions prior to 3.0 are undocumented.
 - Improved error handling for most commands.
 - Made commands names and their descriptions less ambiguous.
 - Updated the help command (finally) and added common aliases for commands.
+- Renamed commands and updated their descriptions to be more descriptive.
 - Improved the code's internal structure as always (but this time like, better).
 - And other things I likely forgot to document here.
 
