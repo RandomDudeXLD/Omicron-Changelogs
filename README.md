@@ -52,7 +52,7 @@ Versions prior to 3.0 are undocumented.
 - Updated the flavor text on some commands.
 - Added some more slash commands!
 
-**Version 3.5: Released on December ??, 2025**
+**Version 3.5: Released on December 9th, 2025**
 - Added full Slash Command Compatibility for all current prefixed commands.
 - ACTUALLY added legitimate functionality for User Installation Contexts.
 - Updated Omicron's Terms of Service and Privacy Policy for needed corrections and updates.
