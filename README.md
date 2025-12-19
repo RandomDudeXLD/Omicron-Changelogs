@@ -68,16 +68,18 @@ Versions prior to 3.0 are undocumented.
 - And other things I likely forgot to document here.
 
 
-**Version 3.6: Released on ?? ??, 202?**
+**Version 3.6: Released on ?? ??, 2026**
+- Added some needed OwnerOnly commands.
+- Fixed Join and Exit events not working properly.
+- Added the feedback command.
+
+**Version 3.7: Released on ?? ??, 2026**
 
 
-**Version 3.7: Released on ?? ??, 202?**
+**Version 3.8: Released on ?? ??, 2026**
 
 
-**Version 3.8: Released on ?? ??, 202?**
+**Version 3.9: Released on ?? ??, 2026**
 
 
-**Version 3.9: Released on ?? ??, 202?**
-
-
-# Version 4.0: Released on ?? ??, 202?
+# Version 4.0: Released on ?? ??, 2026
