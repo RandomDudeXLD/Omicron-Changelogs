@@ -72,6 +72,7 @@ Versions prior to 3.0 are undocumented.
 - Added some needed OwnerOnly commands.
 - Fixed Join and Exit events not working properly.
 - Added the feedback command.
+- Improved error handling.
 
 **Version 3.7: Released on ?? ??, 2026**
 
